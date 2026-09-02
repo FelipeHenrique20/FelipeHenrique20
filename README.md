@@ -2,9 +2,9 @@
 
 <br>
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor Back-End`**
 
-Me chamo Felipe Henrique, tenho 22 anos e sou natural do Ceará. Atualmente, estou cursando Engenharia de Software na Universidade Federal do Ceará (UFC). Sou apaixonado por tecnologia e atualmente estou focado em desenvolvimento com JavaScript, TypeScript e Node.js, trabalhando também com bancos de dados relacionais como PostgreSQL e SQLite. Já tive contato com Java, Python e C ao longo da graduação, embora esteja um pouco tempo sem praticar. No momento, estou desenvolvendo o projeto Sistema de Biblioteca, aplicando conceitos de back-end e modelagem de dados, e uso o VS Code como meu principal ambiente de desenvolvimento no dia a dia.
+Me chamo Felipe Henrique, tenho 22 anos e sou natural do Ceará. Atualmente, estou cursando Engenharia de Software na Universidade Federal do Ceará (UFC). Sou apaixonado por tecnologia e atualmente estou focado em desenvolvimento com JavaScript, TypeScript e Node.js, trabalhando também com bancos de dados relacionais como PostgreSQL e SQLite. Já tive contato com Java e Python ao longo da graduação, embora esteja um pouco tempo sem praticar. No momento, estou desenvolvendo o projeto Sistema de Biblioteca, aplicando conceitos de back-end e modelagem de dados, e uso o VS Code como meu principal ambiente de desenvolvimento no dia a dia.
 
 <br>
 
@@ -13,7 +13,6 @@ Me chamo Felipe Henrique, tenho 22 anos e sou natural do Ceará. Atualmente, est
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -40,14 +39,3 @@ Me chamo Felipe Henrique, tenho 22 anos e sou natural do Ceará. Atualmente, est
 </p>
 
 <br>
-
-## Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipe-henrique-732006273/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fiphg49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
