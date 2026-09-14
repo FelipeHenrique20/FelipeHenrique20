@@ -28,14 +28,3 @@ Me chamo Felipe Henrique, tenho 22 anos e sou natural do Ceará. Atualmente, est
 ## Projeto em destaque
 
 **[Sistema de Biblioteca](https://github.com/FelipeHenrique20/biblioteca-do-zero)** — Projeto voltado à gestão de acervo, empréstimos e usuários de uma biblioteca, aplicando conceitos de modelagem de banco de dados, back-end com Node.js/TypeScript e boas práticas de desenvolvimento.
-
-<br>
-
-## Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeHenrique20&show_icons=true&theme=default&count_private=true" alt="Estatísticas GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHenrique20&layout=compact&theme=default" alt="Linguagens mais usadas"/>
-</p>
-
-<br>
